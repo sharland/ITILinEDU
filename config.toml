@@ -15,7 +15,7 @@ theme = "hugo-minimalist-theme"
     location = "Oxford, UK"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
+    header_background = "img/header.jpg"
     header_title = "ITIL in Education"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
